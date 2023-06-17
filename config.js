@@ -5,7 +5,7 @@ window.Config = {
   SiteName: 'Xray Monitoring',
 
   // 站点链接
-  SiteUrl: 'https://stats.uptimerobot.com/BGGvEfP9kY',
+  SiteUrl: '/',
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only 两种 Api Key
